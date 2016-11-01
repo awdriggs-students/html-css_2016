@@ -1,4 +1,4 @@
-# Week 6 Notes
+# Week 7 Notes
 
 ## Objectives
 - I can celebrate the success of creating my first website.
