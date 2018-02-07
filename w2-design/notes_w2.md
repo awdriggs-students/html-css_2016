@@ -83,7 +83,7 @@ But, choosing a website is more nuanced than just choosing between two font styl
   + The width of a block of text.
 - Hierarchy and Scale
   + If all type was the same size, then it would be difficult to know which was the most important information on the page. In order to guide the reader, then, headings are usually large, sub-headings are smaller, and body type is smaller still. Size is not the only way to define hierarchy – it can also be achieved with colour, spacing and weight.
-- [Cheat Sheet](http://reference.sitepoint.com/css/typography)
+- [Cheat Sheet](https://www.sitepoint.com/typography-cheat-sheet/)
 - [Cheat Sheet 2](http://adamschwartz.co/magic-of-css/chapters/5-typography/)
 - [Good Resource](http://learn.shayhowe.com/html-css/working-with-typography/)
 
